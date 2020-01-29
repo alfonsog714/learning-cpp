@@ -5,15 +5,15 @@
 ## Debug
 ProjectName            :=Project1
 ConfigurationName      :=Debug
-WorkspacePath          :=C:/Users/Discord/Desktop/Section4
-ProjectPath            :=C:/Users/Discord/Desktop/Section4/Project1
+WorkspacePath          :=C:/Users/Discord/Desktop/learning-c++/Section4
+ProjectPath            :=C:/Users/Discord/Desktop/learning-c++/Section4/Project1
 IntermediateDirectory  :=./Debug
 OutDir                 := $(IntermediateDirectory)
 CurrentFileName        :=
 CurrentFilePath        :=
 CurrentFileFullPath    :=
 User                   :=Discord
-Date                   :=26/01/2020
+Date                   :=29/01/2020
 CodeLitePath           :=D:/CodeLite
 LinkerName             :=C:/MinGW/bin/g++.exe
 SharedObjectLinkerName :=C:/MinGW/bin/g++.exe -shared -fPIC
@@ -94,7 +94,7 @@ PreBuild:
 ## Objects
 ##
 $(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp $(IntermediateDirectory)/main.cpp$(DependSuffix)
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/Discord/Desktop/Section4/Project1/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/Discord/Desktop/learning-c++/Section4/Project1/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.cpp$(DependSuffix): main.cpp
 	@$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) -MG -MP -MT$(IntermediateDirectory)/main.cpp$(ObjectSuffix) -MF$(IntermediateDirectory)/main.cpp$(DependSuffix) -MM main.cpp
 
