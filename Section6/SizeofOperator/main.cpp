@@ -39,4 +39,18 @@ int main() {
     cout << "short: " << SHRT_MAX << endl;
     cout << "long: " << LONG_MAX << endl;
     cout << "long long: " << LLONG_MAX << endl;
+    
+    // sizeof can also be used with variable names
+    cout << "========================================" << endl;
+    
+    cout << "sizeof using variable names" << endl;
+    int age {21};
+    cout << "age is " << sizeof(age) << " bytes." << endl;
+    // or
+    cout << "age is " << sizeof age << " bytes." << endl;
+    
+    double wage {22.24};
+    cout << "wage is " << sizeof(wage) << " bytes." << endl;
+    // or
+    cout << "wage is " << sizeof wage << " bytes." << endl;
 }
