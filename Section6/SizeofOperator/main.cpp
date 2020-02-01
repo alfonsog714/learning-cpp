@@ -14,4 +14,10 @@ int main() {
     cout << "short: " << sizeof(short) << " bytes." << endl;
     cout << "long: " << sizeof(long) << " bytes." << endl;
     cout << "long long: " << sizeof(long long) << " bytes." << endl;
+    
+    cout << "========================================" << endl;
+    
+    cout << "float: " << sizeof(float) << " bytes." << endl;
+    cout << "double: " << sizeof(double) << " bytes." << endl;
+    cout << "long double: " << sizeof(long double) << " bytes." << endl;
 }
