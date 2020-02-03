@@ -1,9 +1,13 @@
 [{
-  "file": "C:\\Users\\Discord\\Desktop\\learning-c++\\Section6\\SizeofOperator\\main.cpp",
-  "directory": "C:\\Users\\Discord\\Desktop\\learning-c++\\Section6\\SizeofOperator",
-  "command": "clang  -c C:\\Users\\Discord\\Desktop\\learning-c++\\Section6\\SizeofOperator\\main.cpp -o C:\\Users\\Discord\\Desktop\\learning-c++\\Section6\\SizeofOperator\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+  "file": "C:\\Users\\Discord\\Desktop\\learning-c++\\Section6\\Constants\\main.cpp",
+  "directory": "C:\\Users\\Discord\\Desktop\\learning-c++\\Section6\\Constants",
+  "command": "clang  -c C:\\Users\\Discord\\Desktop\\learning-c++\\Section6\\Constants\\main.cpp -o C:\\Users\\Discord\\Desktop\\learning-c++\\Section6\\Constants\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
  }, {
   "file": "C:\\Users\\Discord\\Desktop\\learning-c++\\Section6\\IntializingVariables\\main.cpp",
   "directory": "C:\\Users\\Discord\\Desktop\\learning-c++\\Section6\\IntializingVariables",
   "command": "clang  -c C:\\Users\\Discord\\Desktop\\learning-c++\\Section6\\IntializingVariables\\main.cpp -o C:\\Users\\Discord\\Desktop\\learning-c++\\Section6\\IntializingVariables\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Discord\\Desktop\\learning-c++\\Section6\\SizeofOperator\\main.cpp",
+  "directory": "C:\\Users\\Discord\\Desktop\\learning-c++\\Section6\\SizeofOperator",
+  "command": "clang  -c C:\\Users\\Discord\\Desktop\\learning-c++\\Section6\\SizeofOperator\\main.cpp -o C:\\Users\\Discord\\Desktop\\learning-c++\\Section6\\SizeofOperator\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
  }]
